@@ -1,0 +1,45 @@
+{
+  "generated_on": "2026-09-10",
+  "source_files": [
+    "src/App.jsx",
+    "src/components/Commerce.jsx",
+    "src/components/Modal.jsx",
+    "src/data.js",
+    "src/main.jsx",
+    "src/pages/Admin.jsx",
+    "src/pages/Portfolio.jsx",
+    "src/pages/Shop.jsx",
+    "src/storage.js"
+  ],
+  "requested_characters": 687,
+  "fonts": [
+    {
+      "file": "morrow-serif.woff2",
+      "family": "MorrowSerif",
+      "weight": 500,
+      "bytes": 146400,
+      "glyphs": 1099,
+      "cmap_characters": 687,
+      "source": "C:\\Windows\\Fonts\\NotoSerifSC-VF.ttf",
+      "source_sha256": "a4aed9985a5916fbf6690456f8732a9fccd517938e353165d4142b4f11a39280",
+      "sha256": "3fdefaa6c68e6a0f291f22f03958585ca41c6efc9e53a3b768d9565ab1653e22",
+      "copyright": "© 2017-2023 Adobe (http://www.adobe.com/).",
+      "license_metadata": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.\nhttp://scripts.sil.org/OFL",
+      "missing_source_characters": ""
+    },
+    {
+      "file": "morrow-sans.woff2",
+      "family": "MorrowSans",
+      "weight": 400,
+      "bytes": 110728,
+      "glyphs": 1099,
+      "cmap_characters": 687,
+      "source": "C:\\Windows\\Fonts\\NotoSansSC-VF.ttf",
+      "source_sha256": "763146584cf0710223441356b4395e279021b0806c196614377a7a0174ae074a",
+      "sha256": "5fb6de53826088af60c9b074fd1bd23d9ad5e5e646991a6e71d3633973564140",
+      "copyright": "© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+      "license_metadata": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.\nhttp://scripts.sil.org/OFL",
+      "missing_source_characters": ""
+    }
+  ]
+}

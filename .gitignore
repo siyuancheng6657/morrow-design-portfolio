@@ -1,0 +1,12 @@
+node_modules/
+.vite/
+*.log
+.local/
+
+# Keep dist/ out of this list on purpose:
+# the built site is committed so the work can be opened directly
+# (double-click dist/打开作品.html) without a build step.
+
+# design source files & layered poster sources (large, keep out of the repo)
+design/poster-sources/
+*.psd
